@@ -30,7 +30,3 @@
 	4.open browser and paste the link in address bar
 	5.Then Resume Reader Application is run....
 
----Demo Video---
-
-       Video contains how work with Resume Reader Application in Windows
-
